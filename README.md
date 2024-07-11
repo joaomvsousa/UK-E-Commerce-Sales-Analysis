@@ -4,11 +4,15 @@
 
 This project analyzes a dataset of online sales for a UK-based e-commerce company from December 1, 2010, to December 9, 2011. The dataset includes client ID, unit price, invoice number, stock code, product description, quantity, invoice date, and country.
 
+## Data Source
+
+The dataset used in this project was collected from [Kaggle](https://www.kaggle.com/datasets/thedevastator/online-retail-transaction-data).
+
 ## Objective
 
 Utilize Tableau BI dashboards to derive data-driven insights into UK e-commerce sales, aiming to enhance business strategies.
 
-## Goals
+## Business Analysis
 
 - **Evaluate Company Performance**
   - Analyze KPIs such as total revenue, total transactions, and average order value (AOV).
@@ -46,35 +50,6 @@ Utilize Tableau BI dashboards to derive data-driven insights into UK e-commerce 
 ### Optimize Inventory and Product Offerings
 - Product association analysis suggests strategic opportunities for cross-selling and product placement.
 
-## Business Actions
-
-- **Expand into New Markets**
-  - Focus on Germany and France while maintaining strong UK operations, leveraging localized marketing strategies.
-
-- **Leverage Sales Trends**
-  - Capitalize on third-quarter sales momentum with targeted promotions and seasonal campaigns for sustained growth.
-
-- **Personalize Marketing**
-  - Design targeted programs for "Champions" and "loyal customers" to enhance engagement and retention.
-
-- **Reduce Churn**
-  - Implement retention strategies for "promising" and "at risk" customer segments, including personalized incentives and proactive support.
-
-- **Maximize CLV**
-  - Enhance CLV by offering exclusive benefits to "loyal customers" and "Champions".
-
-- **Optimize Inventory**
-  - Use purchasing behavior insights to optimize stock levels and explore cross-selling opportunities to boost AOV.
-
-- **Adapt and Monitor**
-  - Continuously monitor KPIs and customer feedback to promptly adapt strategies to market dynamics and customer needs.
-
----
-
-## Data Source
-
-The dataset used in this project was collected from [Kaggle](https://www.kaggle.com/datasets/thedevastator/online-retail-transaction-data).
-
 ---
 
 ## File Structure
@@ -90,7 +65,7 @@ The dataset used in this project was collected from [Kaggle](https://www.kaggle.
 - Python
 - Tableau
 - Jupyter Notebook
-- Pandas, NumPy, Matplotlib, Seaborn and others (Refer to requirements.txt for detailed library requirements)
+- Pandas, NumPy, Matplotlib, Seaborn and others (Refer to requirements-dev.txt for detailed library requirements)
 
 ## Installation
 
