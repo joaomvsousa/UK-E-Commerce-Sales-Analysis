@@ -6,3 +6,5 @@ requeriments-dev.in
 .DS_Store
 requirements-dev.in
 requirements.in
+.ipynb_checkpoints
+functions.py
