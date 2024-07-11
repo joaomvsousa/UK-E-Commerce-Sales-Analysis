@@ -52,6 +52,12 @@ Utilize Tableau BI dashboards to derive data-driven insights into UK e-commerce 
 
 ---
 
+## Dashboard 
+
+You can view the live visualization on Tableau Public [here](https://public.tableau.com/views/RETAILSHOPANALYSIS/SALESDASHBOARD?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). 
+
+---
+
 ## File Structure
 
 - `notebooks/e-commerce_analysis.ipynb`: Jupyter notebook containing the main script for analyzing the data.
